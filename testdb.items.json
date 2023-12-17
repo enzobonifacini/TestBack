@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "657f55436347b5ba32377189"
+  },
+  "iid": "1",
+  "sku": "SK00001",
+  "name": "Titan de ataque",
+  "description": "producto de shingeki no kyojin personaje Eren Jeager. ",
+  "category": "Funko",
+  "licence": "Hajime Isayama",
+  "price": 12131,
+  "stock": 123124,
+  "createdAt": {
+    "$date": "2023-12-17T20:08:35.090Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-17T20:08:35.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f55886347b5ba3237718e"
+  },
+  "iid": "2",
+  "sku": "SK00002",
+  "name": "Goku",
+  "description": "Goku FASE SUPEROASJDPSAIDHOASDHASDJASPDJ nivel 100000000",
+  "category": "Remera",
+  "licence": "Akira Toriyama",
+  "price": 2341,
+  "stock": 1348,
+  "createdAt": {
+    "$date": "2023-12-17T20:09:44.700Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-17T20:09:44.700Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f55d96347b5ba32377195"
+  },
+  "iid": "3",
+  "sku": "SK00003",
+  "name": "Messi",
+  "description": "Messi chiquito con la camiseta de maiaameeeeee",
+  "category": "Funko",
+  "licence": "AFA",
+  "price": 4113,
+  "stock": 353353,
+  "createdAt": {
+    "$date": "2023-12-17T20:11:05.068Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-17T20:11:05.068Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f56396347b5ba32377198"
+  },
+  "iid": "4",
+  "sku": "SK00004",
+  "name": "Sherk",
+  "description": "Media con dibujos de Sherk ILOVESHERK",
+  "category": "Calzado",
+  "licence": "William Steig",
+  "price": 180,
+  "stock": 546,
+  "createdAt": {
+    "$date": "2023-12-17T20:12:41.835Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-17T20:12:41.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f566c6347b5ba3237719b"
+  },
+  "iid": "5",
+  "sku": "SK00005",
+  "name": "Barbie",
+  "description": "",
+  "category": "Calzado",
+  "licence": "Ninguno",
+  "price": 144,
+  "stock": 757,
+  "createdAt": {
+    "$date": "2023-12-17T20:13:32.506Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-17T20:13:32.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "657f573e6347b5ba323771a7"
+  },
+  "iid": "6",
+  "sku": "SK00006",
+  "name": "Spider-Man",
+  "description": "Traje de spiderman ",
+  "category": "Traje",
+  "licence": "Ninguna",
+  "price": 32232323,
+  "stock": 232323,
+  "createdAt": {
+    "$date": "2023-12-17T20:17:02.827Z"
+  },
+  "updatedAt": {
+    "$date": "2023-12-17T20:17:02.827Z"
+  },
+  "__v": 0
+}]
